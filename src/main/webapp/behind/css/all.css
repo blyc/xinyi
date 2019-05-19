@@ -1,0 +1,20 @@
+#page span {
+  display: inline-block;
+  width: 40px;
+  height: 40px;
+  margin-left: 20px;
+  background-color: lightblue;
+  border-radius: 20px;
+  text-align: center;
+  line-height: 40px;
+  margin-top: 10px;
+}
+#page span:hover {cursor:pointer}
+body {
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
